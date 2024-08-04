@@ -42,5 +42,3 @@ dist/**/*
 yarn.lock
 # ignore kubernetes secret
 secret.sh
-# ignore built ts files
-dist/**/*
